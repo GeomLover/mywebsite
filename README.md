@@ -5,3 +5,4 @@ Adding some local changes to see if merge conflicts arises when doing git pull a
 Deleted changes to locally to commit to a branch different from master branch.
 
 Updating read me file in update.readme file.
+Adding local changes to commit to update.readme file.
